@@ -1,0 +1,29 @@
+h1{color:rgb(106, 84, 231); 
+    text-align:center;
+    font-size:x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border:solid;}
+
+h2{color:rgb(0, 67, 252);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    text-align:center}
+
+.center{position:absolute;
+    left:25%}
+
+.b1{
+    color:blueviolet;
+    position:absolute;
+    left:40%;
+    bottom:25%;
+    font-size: x-large;}
+
+.b2{
+    color:blueviolet;
+    position:absolute;
+    left:55%;
+    bottom:25%;
+    font-size: x-large;}
+
+body{background-color:aquamarine}
