@@ -65,7 +65,7 @@ function startTimer() {
   clearTimeout(timer);
   timer = setTimeout(function() {
     checkUserInput();
-  }, (2.5 + currentLevel * 0.5) * 1000); // Decrease time to 2.5 seconds, increase by 0.5 seconds every level
+  }, (3.5 + currentLevel * 0.5) * 1000); // Decrease time to 2.5 seconds, increase by 0.5 seconds every level
 }
 
 // Function to check user input against the current word
