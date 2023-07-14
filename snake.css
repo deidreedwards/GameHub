@@ -1,0 +1,52 @@
+#game-board {
+    position:absolute;
+    width: 400px;
+    height: 400px;
+    border: 10px solid #8B4513;
+    background-color: #D2B48C;
+    padding: 10px;
+    box-sizing: border-box;
+    top:30%;
+    left:37%;
+  }
+  
+body{
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp2409705.jpg&f=1&nofb=1&ipt=9f4264221eb1918ce4acad61db7237eeba50d35e183202bddc71a0a5d0d6a05b&ipo=images');
+}
+
+h1{
+    text-align:center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+  .snake,
+  .fruit {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    box-sizing: border-box;
+  }
+  
+  .snake {
+    background-color: #006400;
+  }
+  
+  .fruit {
+    background-color: #FF0000;
+  }
+  
+  #start-button {
+    display: block;
+    margin-top: 10px;
+    position:absolute;
+    left:48.5%;
+    size: 15%;
+  }
+
+#restart-button{
+    position:absolute;
+    left:48%;
+    top:15%;
+    size:15%;
+}
+  

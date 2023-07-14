@@ -1,0 +1,36 @@
+body{
+    background-image: url('/home/dayjeeann/Downloads/Beige Collage Tic Tac Toe Fun Presentation.png');
+    background-size: cover;
+    background-position-y: 12%;}
+
+#board {
+    position:absolute;
+    width: 350px;
+    right:20%;
+    top:15%;}
+  
+.row {
+    display: flex;}
+  
+.cell {
+    width: 160px;
+    height: 135px;
+    border: 2px solid rgb(204, 24, 24);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    cursor: pointer;}
+
+#restart-button{
+    position:absolute;
+    right:28.25%;
+    bottom:18%;
+    font-size:large;}
+
+#player-display{
+    position:absolute;
+    right:27.25%;
+    bottom:22%;
+    font-size:large;}
+  

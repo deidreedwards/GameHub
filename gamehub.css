@@ -1,0 +1,125 @@
+h1{color:rgb(80, 54, 226); 
+    text-align:center;
+    font-size:200%;
+    font-family:'Times New Roman', Times, serif;
+    animation-duration: 1.5s;
+    animation-name: slidein;}
+      
+    @keyframes slidein {
+        from {
+          margin-left: 100%;
+          width: 300%;
+        }
+      
+        to {
+          margin-left: 0%;
+          width: 100%;
+        }}
+
+h3{color:rgb(106, 84, 231);
+    font-family:'Times New Roman', Times, serif;
+    font-size: larger;
+    text-align:center;
+    animation-duration: 1.5s;
+    animation-name: slidein;}
+      
+    @keyframes slidein {
+        from {
+          margin-left: 100%;
+          width: 300%;
+        }
+      
+        to {
+          margin-left: 0%;
+          width: 100%;
+        }}
+
+h2{color:rgb(46, 98, 240);
+    font-family:'Times New Roman', Times, serif;
+    font-size: larger;
+    margin-left:175px;}
+
+img{position:absolute;
+    left:25%}
+
+.row{display:flex;
+}
+
+.column{flex:50%;
+        text-align: center;
+}
+
+
+/*.one:hover{width:46%;
+    position:fixed;
+    top:115px;
+    right:5px;
+    border-color: grey;
+}
+
+
+.two:hover{width:46%;
+    position:fixed;
+    top:115px;
+    right:5px;
+    border-color:gray
+}*/
+
+.RPSSP{position:absolute;
+    left:21%;
+    top:23%;}
+
+.td {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    font-size: 24px;
+    background-color: black;
+  }
+
+.RPSTP{position:absolute;
+    left:34.95%;
+    top:22.5%;
+    font-size: x-large;}
+
+.TTTSP{position:absolute;
+    left:22.75%;
+    top:27%;
+    font-size: x-large;}
+
+.TTTTP{position:absolute;
+    left:33.25%;
+    top:27%;
+    font-size: x-large;}
+
+.Snake{position:absolute;
+    left:32.25%;
+    top:31.5%;
+    font-size: x-large;}
+
+.NYTWordle{position:absolute;
+    left:32.45%;
+    top:36%;
+    font-size:x-large;}
+
+.Wordle{position:absolute;
+    left:24%;
+    top:36%;
+    font-size:x-large;}
+
+.Speed{position:absolute;
+    left:34%;
+    top:41%;
+    font-size:x-large;
+}
+
+body{background-image:url("/home/dayjeeann/Code Cayman/Colorful Neon Modern Gaming Channel Desktop Wallpaper.png");
+    background-position: 50% 10%;}
+
+li{color:aliceblue;
+    font-size:large;
+    list-style:none;
+    margin-left:150px;}
+
+
+
