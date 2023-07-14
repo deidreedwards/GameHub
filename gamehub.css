@@ -83,7 +83,7 @@ img{position:absolute;
     font-size: x-large;}
 
 .TTTSP{position:absolute;
-    left:22.05%;
+    left:23.05%;
     top:29.25%;
     font-size: x-large;}
 
@@ -94,12 +94,12 @@ img{position:absolute;
 
 .Snake{position:absolute;
     left:32.95%;
-    top:34%;
+    top:34.5%;
     font-size: x-large;}
 
 .NYTWordle{position:absolute;
-    left:32.85%;
-    top:39%;
+    left:33%;
+    top:39.5%;
     font-size:x-large;}
 
 .Wordle{position:absolute;
@@ -109,7 +109,7 @@ img{position:absolute;
 
 .Speed{position:absolute;
     left:34.75%;
-    top:44.5%;
+    top:44.95%;
     font-size:x-large;
 }
 
