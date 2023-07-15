@@ -67,7 +67,7 @@ img{position:absolute;
 
 .RPSSP{position:absolute;
     left:20.25%;
-    top:24.75%;}
+    top:27.75%;}
 
 .td {
     width: 50px;
@@ -79,27 +79,27 @@ img{position:absolute;
 
 .RPSTP{position:absolute;
     left:36%;
-    top:24.5%;
+    top:27.5%;
     font-size: x-large;}
 
 .TTTSP{position:absolute;
     left:22.05%;
-    top:29.25%;
+    top:32.25%;
     font-size: x-large;}
 
 .TTTTP{position:absolute;
     left:34.05%;
-    top:29.25%;
+    top:32.25%;
     font-size: x-large;}
 
 .Snake{position:absolute;
     left:32.95%;
-    top:34.5%;
+    top:37.5%;
     font-size: x-large;}
 
 .NYTWordle{position:absolute;
     left:33%;
-    top:39.5%;
+    top:42.5%;
     font-size:x-large;}
 
 .Wordle{position:absolute;
@@ -109,7 +109,7 @@ img{position:absolute;
 
 .Speed{position:absolute;
     left:34.75%;
-    top:44.95%;
+    top:47.95%;
     font-size:x-large;
 }
 
